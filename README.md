@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack projects using MERN/MEAN<br>🤝 I’m looking to collaborate mobile OR web apps<br>🌱 I’m currently learning React Native with expo<br>⚡ Fun fact: I automate my environment with custom shell scripts!
+🔭 I’m currently working on full-stack projects using MERN/MEAN<br>🤝 I’m looking to collaborate on mobile OR web apps<br>🌱 I’m currently learning React Native with expo<br>⚡ Fun fact: I automate my environment with custom shell scripts!
 
 
 ## 🌐 Socials:
